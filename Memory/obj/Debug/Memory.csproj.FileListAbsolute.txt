@@ -1,0 +1,14 @@
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\bin\Debug\Memory.exe.config
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\bin\Debug\Memory.exe
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\bin\Debug\Memory.pdb
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\bin\Debug\sfml-audio.dll
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\bin\Debug\sfml-graphics.dll
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\bin\Debug\sfml-learning.dll
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\bin\Debug\sfml-system.dll
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\bin\Debug\sfml-window.dll
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\obj\Debug\Memory.csproj.CopyComplete
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\obj\Debug\Memory.exe
+C:\Users\MikhailP\Desktop\SFprojects\SFProject_13(9)\Memory\obj\Debug\Memory.pdb
