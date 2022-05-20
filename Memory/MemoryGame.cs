@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using SFML.Window;
-using SFML.System;
-using SFML.Graphics;
-using SFML.Audio;
 using SFML.Learning;
 
 namespace MemoryGame
