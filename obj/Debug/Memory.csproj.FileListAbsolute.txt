@@ -26,3 +26,16 @@ C:\Users\MikhailP\Documents\GitHub\MemorySFML\Memory\obj\Debug\Memory.csproj.Cor
 C:\Users\MikhailP\Documents\GitHub\MemorySFML\Memory\obj\Debug\Memory.csproj.CopyComplete
 C:\Users\MikhailP\Documents\GitHub\MemorySFML\Memory\obj\Debug\Memory.exe
 C:\Users\MikhailP\Documents\GitHub\MemorySFML\Memory\obj\Debug\Memory.pdb
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\bin\Debug\Memory.exe.config
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\bin\Debug\Memory.exe
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\bin\Debug\Memory.pdb
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\bin\Debug\sfml-audio.dll
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\bin\Debug\sfml-graphics.dll
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\bin\Debug\sfml-learning.dll
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\bin\Debug\sfml-system.dll
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\bin\Debug\sfml-window.dll
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\obj\Debug\Memory.csproj.AssemblyReference.cache
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\obj\Debug\Memory.csproj.CopyComplete
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\obj\Debug\Memory.exe
+C:\Users\MikhailP\Documents\GitHub\SapperChain\MemorySFML\obj\Debug\Memory.pdb
