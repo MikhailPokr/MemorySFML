@@ -1,2 +1,2 @@
 # MemorySFML
-Игра Мемори с использованием SFML и учебной библиотеки SkillFactory.
+Classic Memory game using SFML and the SkillFactory educational library.
